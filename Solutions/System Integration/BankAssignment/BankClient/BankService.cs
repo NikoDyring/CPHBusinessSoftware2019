@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+﻿using System.IO;
 using System.Net.Sockets;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BankClient
 {
@@ -24,12 +19,13 @@ namespace BankClient
         }
 
         #region Calculations for accounts.
-        
-        // Needs use of DRY principle. A lot of code is repeated. Could make it into 1 method, with the same functionality. 
+
+        /* Needs use of DRY principle. A lot of code is repeated.
+         Could make it into 1 method, with the same functionality. */
 
         public string CheckBalance(string accountNo, double value)
         {
-            if(!client.Connected)
+            if (!client.Connected)
             {
                 TcpClient a = new TcpClient("localhost", 6789);
             }
@@ -42,9 +38,9 @@ namespace BankClient
             sw.WriteLine(message);
 
             var serverAnswer = sr.ReadLine();
-            if(serverAnswer != null)
+            if (serverAnswer != null)
             {
-                
+
                 return serverAnswer;
             }
             client.Close();
