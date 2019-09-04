@@ -4,6 +4,6 @@ A Github Repository with all the Assignments done throughout the course.
 
 **Table of Contents**
 * Solutions
-  * BankAssignment
+  * [BankAssignment](https://github.com/NikoDyring/Software2019/tree/master/Solutions/BankAssignment)
     * Bank Client
     * Bank Server
