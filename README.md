@@ -1,5 +1,5 @@
 # Software Development 2019
-A Github Repository with all the Assignments done throughout the course.
+A Github Repository with all the Assignments done throughout the course in the different classes.
 ### By Nikolaj Dyring Jensen
 
 **Table of Contents**
