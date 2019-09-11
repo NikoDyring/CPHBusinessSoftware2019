@@ -14,7 +14,12 @@ The application should illustrate the use of RPC/RMI technology.
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 **_Instructions_**  
-*Coming soon...*
+1. Download Solution from Github.
+2. Open solution file in Visual Studio.
+3. Change FILEPATH property on the server to where your txt file is placed.
+4. Change connectionstring to fit your database.
+5. Start debugging server and start client after to test out the connection.
+6. *Success!*
 
 **_Pictures from solution_**
 
