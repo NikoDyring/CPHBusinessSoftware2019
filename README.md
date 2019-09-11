@@ -8,4 +8,4 @@ A Github Repository with all the Assignments done throughout the course.
     * [BankAssignment](../tree/master/Solutions/System%20Integration/BankAssignment)
       * [Bank Client](../tree/master/Solutions/System%20Integration/BankAssignment/BankClient)
       * [Bank Server](../tree/master/Solutions/System%20Integration/BankAssignment/BankServer)
-    * [RPCAssignment](../tree/master/Solutions/System%20Integration/RPCAssignment/)
+    * [RPCAssignment](../tree/master/Solutions/System%20Integration/RPCAssignme)
