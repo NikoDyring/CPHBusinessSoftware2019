@@ -1,5 +1,5 @@
 # Bank Assignment
-My solution for the Bank Assignment  
+*My solution for the Bank Assignment*  
 ***
 **_Assignment Description_**  
 *1. Create a Client application, which*  
