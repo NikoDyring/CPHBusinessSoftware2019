@@ -33,6 +33,6 @@ The application should illustrate the use of RPC/RMI technology.
 <img src="https://raw.githubusercontent.com/NikoDyring/Software2019/master/Solutions/System%20Integration/RPCAssignment/imagesForGithub/consoleprintScreenshots.png" width="498px">
 
 **_Known Issues_**
-* **Filepath shouldn't be local, but solution based.**
+* **Filepath shouldn't be local.**
 
 ### By Nikolaj Dyring Jensen
