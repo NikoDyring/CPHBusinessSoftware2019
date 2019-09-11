@@ -13,8 +13,8 @@ The application should illustrate the use of RPC/RMI technology.
 * [Google Protocol Buffers](https://developers.google.com/protocol-buffers/docs/csharptutorial)
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-**_Instructions_**
-Coming soon..
+**_Instructions_**  
+*Coming soon...*
 
 
 ### By Nikolaj Dyring Jensen
