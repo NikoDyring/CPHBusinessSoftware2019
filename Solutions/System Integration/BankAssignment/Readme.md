@@ -1,7 +1,6 @@
 # Bank Assignment
-My solution for the Bank Assignment
+My solution for the Bank Assignment  
 **_Assignment Description_**
-
 *Create a Client application, which*  
 * opens connection to a server with a specific IP address and port 
 * reads data from the user: account number and (+ or -) amount of money 
