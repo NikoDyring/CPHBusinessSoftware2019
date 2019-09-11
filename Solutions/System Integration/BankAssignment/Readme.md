@@ -1,5 +1,6 @@
 # Bank Assignment
 My solution for the Bank Assignment  
+***
 **_Assignment Description_**  
 *Create a Client application, which*  
 * opens connection to a server with a specific IP address and port 
@@ -15,7 +16,7 @@ My solution for the Bank Assignment
 * returns a response 
 
 *Run and test both applications on the same and on two different computers*  
-
+***
 **_Technology used_**
 * Windows Forms for the client.
 * Console App for the server.
