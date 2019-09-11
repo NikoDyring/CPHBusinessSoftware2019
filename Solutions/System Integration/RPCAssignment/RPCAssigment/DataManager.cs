@@ -10,7 +10,7 @@ namespace RPCAssignment
 {
     public class DataManager
     {
-        private string TXTFILEPATH ="C:\\Users\\nikod\\Documents\\GitHub\\Software2019\\Solutions\\System Integration\\RPCAssigment\\RPCServer\\RPCAssigment\\TextFiles\\Students.txt";
+        private string TXTFILEPATH = "C:\\Users\\nikod\\Documents\\GitHub\\Software2019\\Solutions\\System Integration\\RPCAssignment\\RPCAssignment\\TextFiles\\Students.txt";
         private string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\nikod\\Documents\\MSSQLLocalDB.mdf;Integrated Security=True;Connect Timeout=30";
 
         // The method for getting students from the database using the connectionString given above.
