@@ -16,5 +16,7 @@ The application should illustrate the use of RPC/RMI technology.
 **_Instructions_**  
 *Coming soon...*
 
+**_Pictures from solution_**
 
+![alt text](https://raw.githubusercontent.com/NikoDyring/Software2019/master/Solutions/System%20Integration/RPCAssignment/imagesForGithub/consoleprintScreenshots.png "Print of consoles showing the RPC functions correctly.")
 ### By Nikolaj Dyring Jensen
