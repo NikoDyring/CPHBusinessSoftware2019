@@ -14,7 +14,7 @@ The application should illustrate the use of RPC/RMI technology.
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 **_Instructions_**  
-1. Download Solution from Github.
+1. Download Solution from Github. (Protip: Use [DownGit](https://minhaskamal.github.io/DownGit/#/home) to download this solution only, instead of the whole repo.
 2. Open solution file in Visual Studio.
 3. Change FILEPATH property on the server to where your txt file is placed.
 4. Change connectionstring to fit your database.
