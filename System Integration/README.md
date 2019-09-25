@@ -1,5 +1,5 @@
 # Software2019
 ## Software Integration
-* [**_Bank Client_**]()
-* [**_TCP Server & Client_**]()
-* [**_WhoIs Client_**]() 
+* [**_BankAssignment_**](https://github.com/NikoDyring/Software2019/tree/master/System%20Integration/BankAssignment)
+* [**_RPCAssignment_**](https://github.com/NikoDyring/Software2019/tree/master/System%20Integration/RPCAssignment)
+* [**_WebServiceAssignment_**](https://github.com/NikoDyring/webservices-assignment)
